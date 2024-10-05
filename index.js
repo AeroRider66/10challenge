@@ -29,6 +29,7 @@ inquirer
         {
             type: 'input',
             message: 'Enter text size.',
+            name: 'textSize'
         },
         {
             type: 'input',
