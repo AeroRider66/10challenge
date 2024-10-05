@@ -29,7 +29,7 @@ inquirer
         {
             type: 'input',
             message: 'Enter text size.',
-        }
+        },
         {
             type: 'input',
             message: 'Enter shapes color.',
