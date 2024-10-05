@@ -8,7 +8,7 @@ inquirer
     .prompt([
         {
             type: 'input',
-            message: 'Enter three characters.',
+            message: 'Enter three characters. ',
             name: 'characters',
         },
         {
